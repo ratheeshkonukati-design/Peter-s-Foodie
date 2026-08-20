@@ -1,0 +1,6 @@
+{
+  "name": "Peter's Foody",
+  "description": "Premium food delivery and multi-restaurant discovery platform connecting customers with top local dining, instant ordering, live tracking, and restaurant management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
